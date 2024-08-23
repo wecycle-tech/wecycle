@@ -15,7 +15,7 @@ https://templatemo.com/tm-588-ebook-landing
   --secondary-color:              #E9C46A;
   --section-bg-color:             #f0f8ff;
   --custom-btn-bg-color:          #fbc218;
-  --custom-btn-bg-hover-color:    #3c77ed;
+  --custom-btn-bg-hover-color:    #dc7d33;
   --dark-color:                   #000000;
   --p-color:                      #717275;
   --link-hover-color:             #dc7d33;
@@ -690,7 +690,7 @@ h6{
 /* privacypolicy */
 
 .custom-privacy-section {
-  background-color: #767674; /* Light grey background */
+   /* Light grey background */
   padding: 60px 0;
   display: flex;
   align-items: center;
